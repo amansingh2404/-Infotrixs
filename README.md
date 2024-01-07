@@ -17,8 +17,7 @@ This is a command-line Python application that uses the Weather API to fetch and
 1. **Fetch Weather Data**: To fetch the weather data for  the city list, use the following command:
     ```
     python weather.py --weather
-    ```
-    Replace "City Name" with the name of the city you want to fetch the weather data for. It updates after every 20 sec. 
+    ``` 
 
 2. **Add Favorite City**: To add a city to your list of favourite cities, use the following command:
     ```
